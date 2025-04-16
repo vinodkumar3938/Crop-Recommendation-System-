@@ -2,12 +2,6 @@
     <h1>AgriSens : YOUR SMART FARMING ASSISTANT</h1>
 </div>
 
-<div align="center">
-    <h3>Link : https://agrisens.netlify.app/ </h3>
-</div>
-
-![Screenshot 2025-01-22 210034](https://github.com/user-attachments/assets/5b945e7d-bbb0-4463-b06f-681445e102bd)
-
 
 ## Overview
 
@@ -104,20 +98,6 @@ These two models are integrated into the Smart Crop Recommendation System with P
 
 
 
-| Accuracy Comparison Graph of all models |
-|---------------------------|
-![1](https://github.com/ravikant-diwakar/AgriSens-SMART-CROP-RECOMMENDATION-SYSTEM-WITH-PLANT-DISEASE-IDENTIFICATION/assets/110620635/604bd0b3-5161-48e2-aef0-28267fd85aac)
-
-> The **Accuracy vs Crop Graphs** visualize the performance of different algorithms in crop recommendation accuracy.
-
-| Accuracy vs Crop Graphs | Accuracy vs Crop Graphs |
-| ----------- | -------------|
-| ![4](https://github.com/user-attachments/assets/ef096a91-ee2f-470e-a134-9c0ba9c4862a) | ![6](https://github.com/user-attachments/assets/84ed33e7-f496-469e-b663-f20997936ced) |
-![8](https://github.com/user-attachments/assets/a9230e96-b813-4213-90cc-6654f8cec69f) | ![10](https://github.com/user-attachments/assets/8455aa24-1856-43f9-ab0e-07adeda49dda) |
-![12](https://github.com/user-attachments/assets/40d7bdeb-bc4f-40f5-97c3-110e229e30ca) | ![14](https://github.com/user-attachments/assets/639ba618-9930-467d-a462-354c5fd44a9c) |
-![3](https://github.com/user-attachments/assets/69a9033f-cf39-45d3-93c9-57fb9ea8229d) | ![2](https://github.com/user-attachments/assets/70ffbe66-ca11-4b89-b2bf-16d1f71b5534) |
-
-
 ---
 
 # 📌Plant Disease Identification Model 
@@ -197,18 +177,6 @@ Found 17572 files belonging to 38 classes.
 
 
 These results demonstrate the effectiveness of the Smart Crop Recommendation System with Plant Disease Identification in assisting farmers with informed crop selection and disease management, thereby contributing to improved agricultural practices and crop yields.
-
-## 👨‍💻 CONTRIBUTERS
-- [Ravikant Diwakar](https://github.com/ravikant-diwakar)
-- [Amit Kumar](https://github.com/AMITKUMAR7970)
-- [Gaurav Kumar](https://github.com/Gauravkumar1741)
-- Aditya Chaudhary
-
-## 📧 Contact
-
-If you have any questions or feedback, feel free to reach out to us at [🔗Link](https://agrisens.netlify.app/form/).
-
----
 
 
 
